@@ -9,9 +9,6 @@ Hi, I'm Luis D. Aponte Colón, I the mechanical work on THE MACHINE, along with 
 Guy on the right, César:
 Hello, im César J. García Ortiz, I am the rookie programmer of Conagher Racing, and am tasked mostly with coming up with ideas or strategies in where our robot could prevail in competitions. Im open minded and not afraid to show my perspective on things. Well, uh, ththat's me!
 
-Guy who current isnt in any photos(pretend he's next to César or something), David:
-(Note, this is supposed to be writen by David but he isnt here rn so Luis filled in)He's the senior programmer of the team when it comes to pybricks, since he's now going to college he might not be present in all the competitions but he's here more as an in team mentor for César in the programming aspect.
-
 ![!\[Description\](1st place at robinson.jpg)](<1st place at robinson.jpg>)
 
 ![!\[Description\](IMG_0531.jpg)](<IMG_0531.JPG>)
