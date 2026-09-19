@@ -40,7 +40,7 @@ He's composed of the following electronic parts:
 <table>
     <tr>
         <td>
-            <img src="component images/S.P. Hub.png"> Lego Spike Prime Hub
+            <img src="../component images/S.P. Hub.png"> Lego Spike Prime Hub
         </td>
         <td>
              Placed at the back of THE MACHINE atop the differential, it's the heart of our MACHINE.
@@ -50,7 +50,7 @@ He's composed of the following electronic parts:
     </tr>
     <tr>
         <td>
-            <img src="component images/Battery.png"> Lego Spike Prime Hub Battery
+            <img src="../component images/Battery.png"> Lego Spike Prime Hub Battery
         </td>
         <td>
             A lithium ion recharable battery that powers the entire robot at 7.3v for 2100mAh or 15.4Wh which we have found as enough for now
@@ -59,7 +59,7 @@ He's composed of the following electronic parts:
     </tr>
     <tr>
         <td>
-            <img src="component images/Large Technic Motor.png"> Lego Spike Prime Large Motor
+            <img src="../component images/Large Technic Motor.png"> Lego Spike Prime Large Motor
         </td>
         <td>
             Placed in the middle of THE MACHINE to drive it via a technic axle connected to the differential, according to Lego, it generates 8 Ncm of torque at 135 RPM and consumes 430 mA at "maximum efficiency", thanks to the 20 tooth gear at the end of the Technic axle and the 28 tooth gear on the differential, this create an increase in torque at the expense of speed which results in the wheels getting 11.2 Ncm of torque at 96.42 RPM. 
@@ -67,7 +67,7 @@ He's composed of the following electronic parts:
                 <td>
     </tr><tr>
         <td>
-            <img src="component images/Medium Motor.png"> Lego Spike Prime Medium Motor
+            <img src="../component images/Medium Motor.png"> Lego Spike Prime Medium Motor
         </td>
         <td>
             This motor is placed at the front of THE MACHINE, atop the steering arms and is used for steering, it generates 3.5 Ncm of torque at 135 RPM and consumes 280mA according to Lego
@@ -75,7 +75,7 @@ He's composed of the following electronic parts:
                 <td>
     </tr><tr>
         <td>
-            <img src="component images/Color Sensor.png"> Lego Spike Prime Color Sensor
+            <img src="../component images/Color Sensor.png"> Lego Spike Prime Color Sensor
         </td>
         <td>
             Placed at the front of THE MACHINE below the front Ultrasonic distance sensor it's meant to identify the obstacles up to 4 to 6 cm from our testing and a sample rate of 100hz to relay that information to the hub to then decide what to do.
@@ -83,7 +83,7 @@ He's composed of the following electronic parts:
                 <td>
     </tr><tr>
         <td>
-            <img src="component images/ultrasonic distance sensor.png"> Lego Spike Prime Ultrasonic Distance Sensor
+            <img src="../component images/ultrasonic distance sensor.png"> Lego Spike Prime Ultrasonic Distance Sensor
         </td>
         <td>
             One placed at the front and one at both left and right sides for wall detection and obstacle avoiding, it can detect objects for 200 cm and has a sample rate of 100 Hz
