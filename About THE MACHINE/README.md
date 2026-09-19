@@ -30,7 +30,7 @@ Shorter chasis, same components (for but 1 competition) and a new programming la
 
 V. Chew R(udolf) is our first version of V. Chew that incorporates non Lego electronics with the use of a [Cytron Maker Pi RP2040](https://www.cytron.io/p-maker-pi-rp2040-simplifying-robotics-with-raspberry-pi-rp2040) located under the Lego Spike Hub, and a [APDS-9960](https://learn.sparkfun.com/tutorials/apds-9960-rgb-and-gesture-sensor-hookup-guide/all) in replacement of the official Lego Color Sensor, but it didn't stay in use for long as in testing it showed to be quite in accurate at distances upward of about 2cm aprox so we did an upgrade:
 
-(insert photo of this iteration of V. Chew here *this was writen at 12:19 am ast btw)
+<img height=175 width=700 src="V. Chew/V. Chew pictures/IMG_1698.jpg">
 
 As you might have noticed, V. Chew has a thing mounted on him, he can see you clearly now cause we've decided to mount a Huskylens 1 to V. Chew for obstacle detection.
 
