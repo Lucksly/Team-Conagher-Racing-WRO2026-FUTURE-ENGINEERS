@@ -15,9 +15,40 @@ WAASUPP. I'm César J. García Ortiz, the expressive, very VERY rookie programme
 
 Current Iteration of THE MACHINE:
 ===
-V. Chew:
-<img src="">
+[V. Chew](About%20THE%20MACHINE/V.%20Chew/README.md):
 
+<img height=175 width=700 src="About THE MACHINE/V. Chew/V. Chew pictures/IMG_1698.jpg">
+
+We also have some pics of him in the sun:
+
+<table>
+    <tr>
+        <td>
+            <img src="About THE MACHINE/V. Chew/V. Chew pictures/IMG_1695.jpg"> Front
+        </td>
+        <td>
+            <img src="About THE MACHINE/V. Chew/V. Chew pictures/IMG_1694.jpg"> Right Side
+        </td>
+                <td>
+        <img src="About THE MACHINE/V. Chew/V. Chew pictures/IMG_1693.jpg"> Rear
+        </td>
+        <td>
+            <img src="About THE MACHINE/V. Chew/V. Chew pictures/IMG_1700.jpg"> The Hub and RP2040
+    </tr>
+    <tr>
+        <td>
+            <img src="About THE MACHINE/V. Chew/V. Chew pictures/IMG_1692.jpg"> Left Side 
+        </td>
+        <td>
+            <img src="About THE MACHINE/V. Chew/V. Chew pictures/IMG_1696.jpg"> Top Down 
+        </td>
+                <td>
+        <img src="About THE MACHINE/V. Chew/V. Chew pictures/IMG_1697.jpg"> Bottom Up
+        </td>
+                <td>
+        <img src="About THE MACHINE/V. Chew/V. Chew pictures/IMG_1699.jpg"> Chasis without electronic components    
+    </tr>
+</table>
 
 Our github is divided into 5 sections:
 
