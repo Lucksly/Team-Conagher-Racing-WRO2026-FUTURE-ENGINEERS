@@ -17,7 +17,7 @@ Current Iteration of THE MACHINE:
 ===
 V. Chew:
 
-<img height=175  width=700 src="V. Chew pictures/IMG_1698.jpg">
+<img height=175  width=700 src="About THE MACHINE/V. Chew/ V. Chew pictures/IMG_1698.jpg">
 
 Our github is divided into 5 sections:
 
