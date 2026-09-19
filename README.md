@@ -16,8 +16,8 @@ WAASUPP. I'm César J. García Ortiz, the expressive, very VERY rookie programme
 Current Iteration of THE MACHINE:
 ===
 V. Chew:
-<img src="">
 
+<img height=175  width=700 src="V. Chew pictures/IMG_1698.jpg">
 
 Our github is divided into 5 sections:
 
