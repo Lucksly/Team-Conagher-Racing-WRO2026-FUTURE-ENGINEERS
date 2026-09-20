@@ -52,22 +52,22 @@ We also have some pics of him in the sun:
 
 Our github is divided into 5 sections:
 
-[About us](/About%20us/README.md):
+[About us](/About%20us):
 
 A brief introcution to the team members
 
-[About THE MACHINE](About%20THE%20MACHINE/README.md):
+[About THE MACHINE](About%20THE%20MACHINE):
 
 All the information needed about THE MACHINE in the mechanical aspect.
 
-[Schematics and Diagrams](Schematics%20and%20Diagrams/README.md):
+[Schematics and Diagrams](Schematics%20and%20Diagrams):
 
 Contains diagrams explaning the robots functioanlity
 
-[3D Models](3D%20Models/README.md):
+[3D Models](3D%20Models):
 
 Files and sources to all 3D models used on the robot.
 
-[The secret sauce](The%20secret%20sauce/README.md):
+[The secret sauce](The%20secret%20sauce):
 
 Contains the code used for the robot.
