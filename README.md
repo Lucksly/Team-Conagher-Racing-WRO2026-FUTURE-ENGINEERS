@@ -71,3 +71,5 @@ Files and sources to all 3D models used on the robot.
 [The secret sauce](The%20secret%20sauce):
 
 Contains the code used for the robot.
+
+P.S. We have a [Youtube channel](https://youtube.com/@teamconagherracing?si=OuUEgwbiOaH3XBwn)
