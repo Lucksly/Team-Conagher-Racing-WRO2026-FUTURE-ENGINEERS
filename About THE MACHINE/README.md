@@ -36,7 +36,8 @@ As you might have noticed, V. Chew has a thing mounted on him, he can see you cl
 
 # Random side ventures that never worked out:
 
-Le shell
+Le shell:
+
 <img src="V. Juan/V. Juan pictures/Le shell.JPG">
 
 To make a long story short, we tried making a shell for V. Juan, we never used it in a competition.
